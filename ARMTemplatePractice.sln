@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ARMTemplatePractice", "ARMTemplatePractice.csproj", "{351D99E9-9D8B-45C9-B417-9F919C6493F9}"
+EndProject
+Project("{151D2E53-A2C4-4D7D-83FE-D05416EBD58E}") = "ArmTemplates.Templates", "..\ArmTemplates.Templates\ArmTemplates.Templates.deployproj", "{BBA99FCD-B5D2-43B9-8FAA-ED545EE2FE4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{351D99E9-9D8B-45C9-B417-9F919C6493F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{351D99E9-9D8B-45C9-B417-9F919C6493F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{351D99E9-9D8B-45C9-B417-9F919C6493F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{351D99E9-9D8B-45C9-B417-9F919C6493F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBA99FCD-B5D2-43B9-8FAA-ED545EE2FE4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBA99FCD-B5D2-43B9-8FAA-ED545EE2FE4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBA99FCD-B5D2-43B9-8FAA-ED545EE2FE4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBA99FCD-B5D2-43B9-8FAA-ED545EE2FE4E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D66D8174-3677-4040-B656-E34AA889EB56}
+	EndGlobalSection
+EndGlobal
